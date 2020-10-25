@@ -1,0 +1,25 @@
+This is for Tableau-Challenge. 
+
+ABOUT TABLEAU:
+Tableau is a powerful tool that will provide results in an interactive way!
+I would not that if we have Tableau Server this will be much easier to submit Dashboards. 
+In our current state you see data sheet that either needs to be extracted as a Tableau file
+or load it on GitHub. 
+Paying a bit more with Tableau Server would provide us the opprotunity to work on line and load 
+Dashboards without the support of sheets. 
+We could also have our data loaded into the server which will provide rapid live data driven decisions. 
+Currently, we will have the extract the data and have large data to start the process of having slower computers. 
+
+The data that is currently on the site is too big for conventional visualizations to use. 
+The currently data set that was used is from January 2018 till Present. 
+Data this big caused times of "blackout" and the data stopped interacting with our product.
+
+DATA:
+Two items that Tableau quickly picked up was customers with unrealistic ages and having an unknown gender. 
+It is quite a bit of data exaggerates the realistic data and provides false readings with data. 
+
+
+INTERACTIONS:
+I created an interaction with the map. 
+When you are on the Top/Bottom 10 Service Stations Dashboard, you can pick a station and it will 
+move over to the map with lines of each ride by the milage that was rode. 
